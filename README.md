@@ -2,6 +2,8 @@
 
 ![Duino Coin_3](https://user-images.githubusercontent.com/93370788/160250121-970b711e-1353-4cb0-8dc7-c84d66bfef8e.jpg)
 
+![2](https://user-images.githubusercontent.com/93370788/160250821-25b88525-148d-4996-95f0-2f6a550e8981.jpg)
+
 ---
 
 ## Description
