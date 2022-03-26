@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Duino-Coin-rescue")(type "Legacy")(uri "${KIPRJMOD}/DUINO-rescue.lib")(options "")(descr ""))
+)
