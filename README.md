@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a simple DUINO coin mining board with four pieces of ATmega328 and USB Hub. Connecting to a computer is easy with a micro USB / USB A cable.
+This is a simple DUINO coin mining board with four pieces of ATmega328 and USB Hub. Connecting to a computer is easy with a micro USB / USB A cable. Here are two versions of the PCB board. One is with CH340C and the other is with CH340G. I have not tested PCBs with CH340G.
 You can read all about the DUINO coin on the official website
 - https://duinocoin.com/
 - https://github.com/revoxhere/duino-coin/releases/
