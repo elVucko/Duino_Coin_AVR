@@ -2,7 +2,7 @@
 
 ![Duino Coin_3](https://user-images.githubusercontent.com/93370788/160250121-970b711e-1353-4cb0-8dc7-c84d66bfef8e.jpg)
 
-![DUINO](https://user-images.githubusercontent.com/93370788/161392314-26ef6068-4f57-43f9-a4a8-b11a091fb116.jpg)
+![DUINO](https://user-images.githubusercontent.com/93370788/161392468-03ab1a86-ab60-4fe3-beb3-5f8bf55a01b6.jpg)
 
 ![2](https://user-images.githubusercontent.com/93370788/160250821-25b88525-148d-4996-95f0-2f6a550e8981.jpg)
 
