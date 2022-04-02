@@ -16,6 +16,7 @@ This is a simple DUINO coin mining board with four pieces of ATmega328 and USB H
 You can read all about the DUINO coin on the official website
 - https://duinocoin.com/
 - https://github.com/revoxhere/duino-coin/releases/
+- paypal.me/elvuckoo
 
 
 
