@@ -2,6 +2,8 @@
 
 ![Duino Coin_3](https://user-images.githubusercontent.com/93370788/160250121-970b711e-1353-4cb0-8dc7-c84d66bfef8e.jpg)
 
+![DUINO](https://user-images.githubusercontent.com/93370788/161392314-26ef6068-4f57-43f9-a4a8-b11a091fb116.jpg)
+
 ![2](https://user-images.githubusercontent.com/93370788/160250821-25b88525-148d-4996-95f0-2f6a550e8981.jpg)
 
 ![2022-03-26 19_11_12-Duino-Coin AVR Miner (v3 0) - 645_645 accepted shares](https://user-images.githubusercontent.com/93370788/160252048-90728764-163c-45a0-9ba6-0ea155ba7b12.png)
