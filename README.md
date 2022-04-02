@@ -18,7 +18,14 @@ One version of the PCB is with CH340C and for me, that version works great. But 
 
 - https://duinocoin.com/
 - https://github.com/revoxhere/duino-coin/releases/
+
+---
+
+### If you want to support my work
+
 - https://paypal.me/elvuckoo
+
+DUINO username: Vucko
 
 
 
